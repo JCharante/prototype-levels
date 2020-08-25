@@ -1,0 +1,27 @@
+{
+  "name": "prototype-levels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node src/util.ts",
+    "start": "ts-node src/main.ts"
+  },
+  "dependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCharante/prototype-levels.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JCharante/prototype-levels/issues"
+  },
+  "homepage": "https://github.com/JCharante/prototype-levels#readme"
+}
